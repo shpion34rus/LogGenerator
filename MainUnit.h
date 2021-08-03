@@ -20,6 +20,7 @@ __published:	// IDE-managed Components
 	TButton *ButtonClockStop;
 	TTimer *TimerClockVisibleTimer;
 	TListBox *ListBox1;
+	TComboBox *ComboBox1;
 	void __fastcall TimerClockTimer(TObject *Sender);
 	void __fastcall ButtonClockStartClick(TObject *Sender);
 	void __fastcall ButtonClockStopClick(TObject *Sender);

@@ -32,8 +32,8 @@ object Form1: TForm1
     end
   end
   object ButtonClockStart: TButton
-    Left = 104
-    Top = 13
+    Left = 8
+    Top = 47
     Width = 25
     Height = 25
     Caption = #9654
@@ -41,8 +41,8 @@ object Form1: TForm1
     OnClick = ButtonClockStartClick
   end
   object ButtonClockStop: TButton
-    Left = 135
-    Top = 13
+    Left = 48
+    Top = 47
     Width = 25
     Height = 25
     Caption = #9209
@@ -57,6 +57,19 @@ object Form1: TForm1
     Anchors = [akLeft, akTop, akRight, akBottom]
     ItemHeight = 13
     TabOrder = 3
+  end
+  object ComboBox1: TComboBox
+    Left = 120
+    Top = 15
+    Width = 145
+    Height = 21
+    TabOrder = 4
+    Text = #1055#1086#1083#1100#1079#1086#1074#1072#1090#1077#1083#1100
+    Items.Strings = (
+      #1040#1076#1084#1080#1085#1080#1089#1090#1088#1072#1090#1086#1088
+      #1053#1072#1095#1072#1083#1100#1085#1080#1082' '#1089#1084#1077#1085#1099
+      #1048#1085#1078#1077#1085#1077#1088'1'
+      #1048#1085#1078#1077#1085#1077#1088'2')
   end
   object TimerClock: TTimer
     Enabled = False
