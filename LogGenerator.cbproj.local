@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.056,=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\MainUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\LogGenerator.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\MainUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\LogGeneratorPCH1.h</Transaction>
+    <Transaction>2021.08.02 15:25:00.243,=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\Unit1.cpp</Transaction>
+    <Transaction>2021.08.02 15:25:16.780,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\LogManager.h=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\Unit1.h</Transaction>
+    <Transaction>2021.08.02 15:25:16.780,C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\LogManager.cpp=C:\Users\bogomolov\Documents\Embarcadero\Studio\Projects\LogGenerator\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
